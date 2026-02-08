@@ -89,3 +89,4 @@ Studying portfolio allocation
 Learning about long-term holding
 Understanding market psychology
 Studying fear and greed index
+Learning discipline in trading
