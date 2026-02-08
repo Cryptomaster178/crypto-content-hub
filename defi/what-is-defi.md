@@ -18,3 +18,4 @@ Studying Base ecosystem
 Learning about airdrops
 Researching on-chain activity
 Understanding wallets and keys
+Learning about seed phrase security
