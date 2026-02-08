@@ -74,3 +74,4 @@ Studying narrative building
 Learning about token launches
 Understanding fair token distribution
 Studying launchpads
+Exploring Base chain growth
