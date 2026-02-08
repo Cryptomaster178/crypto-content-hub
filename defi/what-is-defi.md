@@ -67,3 +67,4 @@ Studying decentralized social
 Exploring Farcaster
 Learning about crypto communities
 Understanding Discord engagement
+Studying community growth
