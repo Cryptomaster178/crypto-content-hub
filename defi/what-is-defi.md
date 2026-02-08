@@ -13,3 +13,4 @@ Learning what liquidity pools are
 Studying Uniswap AMM model
 Understanding DEX vs CEX
 Learning about gas fees
+Exploring Layer 2 solutions
