@@ -52,3 +52,5 @@ Studying NFT basics
 Exploring NFT utility
 Learning about GameFi
 Understanding token inflation
+Studying supply and demand
+
