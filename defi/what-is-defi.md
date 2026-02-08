@@ -51,3 +51,4 @@ Understanding hardware wallets
 Studying NFT basics
 Exploring NFT utility
 Learning about GameFi
+Understanding token inflation
