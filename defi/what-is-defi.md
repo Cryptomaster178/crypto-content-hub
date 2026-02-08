@@ -76,3 +76,4 @@ Understanding fair token distribution
 Studying launchpads
 Exploring Base chain growth
 Learning about ecosystem incentives
+Studying developer grants
