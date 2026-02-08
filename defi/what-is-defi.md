@@ -25,3 +25,4 @@ Learning about vesting schedules
 Understanding market cycles
 Learning about bidding mechanisms
 Understanding fair launch models
+Exploring community-led projects
