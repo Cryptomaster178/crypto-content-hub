@@ -66,3 +66,4 @@ Learning about on-chain identity
 Studying decentralized social
 Exploring Farcaster
 Learning about crypto communities
+Understanding Discord engagement
