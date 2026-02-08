@@ -34,3 +34,4 @@ Exploring on-chain transparency
 Learning about public commits
 Studying open-source contribution
 Exploring GitHub for crypto projects
+Learning about Solidity basics
