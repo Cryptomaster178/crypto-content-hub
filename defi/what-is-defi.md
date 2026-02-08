@@ -54,3 +54,4 @@ Learning about GameFi
 Understanding token inflation
 Studying supply and demand
 Learning about staking
+Exploring restaking
