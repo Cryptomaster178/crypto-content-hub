@@ -29,3 +29,4 @@ Exploring community-led projects
 Studying decentralization principles
 Learning about FIC DAO
 Understanding DAO voting power
+Studying governance proposals
