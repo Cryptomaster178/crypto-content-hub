@@ -85,3 +85,4 @@ Understanding Nansen insights
 Studying whale tracking
 Learning about smart money
 Exploring risk management
+Studying portfolio allocation
