@@ -38,3 +38,4 @@ Learning about Solidity basics
 Understanding EVM chains
 Studying Ethereum roadmap
 Learning about rollups
+Exploring Optimistic rollups
