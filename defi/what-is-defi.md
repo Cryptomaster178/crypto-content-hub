@@ -59,3 +59,4 @@ Studying EigenLayer concept
 Learning about validator roles
 Understanding slashing risks
 Studying crypto regulations
+Learning about KYC vs DeFi
