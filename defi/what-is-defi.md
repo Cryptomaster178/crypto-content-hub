@@ -27,3 +27,4 @@ Learning about bidding mechanisms
 Understanding fair launch models
 Exploring community-led projects
 Studying decentralization principles
+Learning about FIC DAO
