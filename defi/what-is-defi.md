@@ -48,3 +48,4 @@ Exploring multisig wallets
 Studying Gnosis Safe
 Learning about cold storage
 Understanding hardware wallets
+Studying NFT basics
