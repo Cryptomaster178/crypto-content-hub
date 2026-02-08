@@ -49,3 +49,4 @@ Studying Gnosis Safe
 Learning about cold storage
 Understanding hardware wallets
 Studying NFT basics
+Exploring NFT utility
