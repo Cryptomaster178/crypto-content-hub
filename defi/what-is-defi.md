@@ -83,3 +83,4 @@ Studying on-chain analytics tools
 Learning about Dune dashboards
 Understanding Nansen insights
 Studying whale tracking
+Learning about smart money
