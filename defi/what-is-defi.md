@@ -45,3 +45,4 @@ Understanding bridge risks
 Studying hacks and exploits
 Learning security best practices
 Exploring multisig wallets
+Studying Gnosis Safe
