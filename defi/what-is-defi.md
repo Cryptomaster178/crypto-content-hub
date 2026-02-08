@@ -9,3 +9,4 @@ Learning blockchain fundamentals
 Studying Bitcoin vs Ethereum
 Understanding smart contracts
 Exploring DeFi basics
+Learning what liquidity pools are
