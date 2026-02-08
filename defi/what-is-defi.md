@@ -62,3 +62,4 @@ Studying crypto regulations
 Learning about KYC vs DeFi
 Exploring privacy coins
 Studying zero-knowledge proofs
+Learning about on-chain identity
