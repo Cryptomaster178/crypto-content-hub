@@ -61,3 +61,4 @@ Understanding slashing risks
 Studying crypto regulations
 Learning about KYC vs DeFi
 Exploring privacy coins
+Studying zero-knowledge proofs
