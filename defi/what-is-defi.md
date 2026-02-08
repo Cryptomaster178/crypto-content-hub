@@ -6,3 +6,4 @@ Add DeFi introduction
 Studying blockchain basics
 Learning how DeFi works in real world
 Learning blockchain fundamentals
+Studying Bitcoin vs Ethereum
