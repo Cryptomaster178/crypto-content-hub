@@ -98,3 +98,4 @@ Studying community trust
 Learning consistency in public work
 Building in public every day
 DeFi removes the need for centralized financial institutions.
+Transparency is a core principle of DeFi protocols.
