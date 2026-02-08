@@ -75,3 +75,4 @@ Learning about token launches
 Understanding fair token distribution
 Studying launchpads
 Exploring Base chain growth
+Learning about ecosystem incentives
