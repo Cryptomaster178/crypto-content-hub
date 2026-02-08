@@ -31,3 +31,4 @@ Learning about FIC DAO
 Understanding DAO voting power
 Studying governance proposals
 Exploring on-chain transparency
+Learning about public commits
