@@ -79,3 +79,4 @@ Learning about ecosystem incentives
 Studying developer grants
 Learning about hackathons
 Exploring crypto careers
+Studying on-chain analytics tools
