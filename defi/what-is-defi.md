@@ -90,3 +90,4 @@ Learning about long-term holding
 Understanding market psychology
 Studying fear and greed index
 Learning discipline in trading
+Exploring passive income models
