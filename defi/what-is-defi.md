@@ -40,3 +40,4 @@ Studying Ethereum roadmap
 Learning about rollups
 Exploring Optimistic rollups
 Studying ZK rollups
+Learning about bridges
