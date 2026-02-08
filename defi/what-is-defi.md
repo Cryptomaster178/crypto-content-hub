@@ -8,3 +8,4 @@ Learning how DeFi works in real world
 Learning blockchain fundamentals
 Studying Bitcoin vs Ethereum
 Understanding smart contracts
+Exploring DeFi basics
