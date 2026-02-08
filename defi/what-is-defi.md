@@ -96,3 +96,4 @@ Learning sustainable strategies
 Understanding real utility tokens
 Studying community trust
 Learning consistency in public work
+Building in public every day
