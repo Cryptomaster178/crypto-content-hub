@@ -23,3 +23,4 @@ Studying DAO governance
 Exploring tokenomics basics
 Learning about vesting schedules
 Understanding market cycles
+Learning about bidding mechanisms
