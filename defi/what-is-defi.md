@@ -72,3 +72,4 @@ Learning meme marketing
 Exploring crypto Twitter strategies
 Studying narrative building
 Learning about token launches
+Understanding fair token distribution
