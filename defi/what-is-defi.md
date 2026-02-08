@@ -32,3 +32,4 @@ Understanding DAO voting power
 Studying governance proposals
 Exploring on-chain transparency
 Learning about public commits
+Studying open-source contribution
