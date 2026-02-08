@@ -36,3 +36,4 @@ Studying open-source contribution
 Exploring GitHub for crypto projects
 Learning about Solidity basics
 Understanding EVM chains
+Studying Ethereum roadmap
