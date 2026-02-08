@@ -46,3 +46,4 @@ Studying hacks and exploits
 Learning security best practices
 Exploring multisig wallets
 Studying Gnosis Safe
+Learning about cold storage
