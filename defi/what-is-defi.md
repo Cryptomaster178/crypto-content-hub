@@ -77,3 +77,4 @@ Studying launchpads
 Exploring Base chain growth
 Learning about ecosystem incentives
 Studying developer grants
+Learning about hackathons
