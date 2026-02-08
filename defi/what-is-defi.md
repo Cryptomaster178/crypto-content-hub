@@ -57,3 +57,4 @@ Learning about staking
 Exploring restaking
 Studying EigenLayer concept
 Learning about validator roles
+Understanding slashing risks
