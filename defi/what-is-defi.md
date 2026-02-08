@@ -19,3 +19,4 @@ Learning about airdrops
 Researching on-chain activity
 Understanding wallets and keys
 Learning about seed phrase security
+Studying DAO governance
