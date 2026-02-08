@@ -41,3 +41,4 @@ Learning about rollups
 Exploring Optimistic rollups
 Studying ZK rollups
 Learning about bridges
+Understanding bridge risks
