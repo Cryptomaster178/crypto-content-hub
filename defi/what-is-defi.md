@@ -17,3 +17,4 @@ Exploring Layer 2 solutions
 Studying Base ecosystem
 Learning about airdrops
 Researching on-chain activity
+Understanding wallets and keys
