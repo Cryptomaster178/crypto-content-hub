@@ -22,3 +22,4 @@ Learning about seed phrase security
 Studying DAO governance
 Exploring tokenomics basics
 Learning about vesting schedules
+Understanding market cycles
