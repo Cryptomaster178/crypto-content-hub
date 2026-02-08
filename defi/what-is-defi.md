@@ -56,3 +56,4 @@ Studying supply and demand
 Learning about staking
 Exploring restaking
 Studying EigenLayer concept
+Learning about validator roles
