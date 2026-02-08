@@ -82,3 +82,4 @@ Exploring crypto careers
 Studying on-chain analytics tools
 Learning about Dune dashboards
 Understanding Nansen insights
+Studying whale tracking
