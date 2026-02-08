@@ -50,3 +50,4 @@ Learning about cold storage
 Understanding hardware wallets
 Studying NFT basics
 Exploring NFT utility
+Learning about GameFi
