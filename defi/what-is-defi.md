@@ -43,3 +43,4 @@ Studying ZK rollups
 Learning about bridges
 Understanding bridge risks
 Studying hacks and exploits
+Learning security best practices
